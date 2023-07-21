@@ -1,4 +1,4 @@
-# chiphers-suit
+# ciphers
 Ciphers suite de TLSv1.2 y TLS1.3 
 ## CONFIGURACION EN SPRING BOOT
     server:
